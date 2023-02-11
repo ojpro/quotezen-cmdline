@@ -1,0 +1,25 @@
+{
+  "name": "quotezen-cmdline",
+  "version": "0.0.1",
+  "description": "QuoteZen App Command Line Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojpro/quotezen-cmdline.git"
+  },
+  "keywords": [
+    "quotezen",
+    "quotes",
+    "motivation",
+    "quotezen-cmdline"
+  ],
+  "author": "Oussama ELJABBARI <ojpro>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ojpro/quotezen-cmdline/issues"
+  },
+  "homepage": "https://github.com/ojpro/quotezen-cmdline#readme"
+}
