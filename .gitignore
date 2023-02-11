@@ -105,3 +105,6 @@ dist
 
 # PHPStrom configs
 .idea/
+
+# Ignore yarn dir
+.yarn/
