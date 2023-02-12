@@ -1,5 +1,5 @@
 {
-  "name": "quotezen-cmdline",
+  "name": "quotezen",
   "version": "0.0.1",
   "description": "QuoteZen App Command Line Package",
   "main": "bin/index.js",
